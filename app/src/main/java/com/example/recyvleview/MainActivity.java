@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<fromFood> fromFoods;
     LinearLayout linearLayout;
 
-
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
